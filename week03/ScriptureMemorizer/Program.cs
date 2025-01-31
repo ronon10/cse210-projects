@@ -28,3 +28,4 @@ class Program
         Console.WriteLine("\nAll words are hidden, thank you!!");
     }
 }
+
